@@ -50,19 +50,5 @@ Hangman Game is a classic word guessing game where players have to guess the cor
 3. Guess letters one at a time. If the letter is present in the word, it will be revealed; otherwise, your remaining attempts will decrease.
 4. Continue guessing letters until you either guess the word correctly, run out of attempts, or choose to quit the game.
 
-## Credits
-
-- Developed by [Your Name]
-- Internship at codeAlpha
-
-## Feedback
-
-If you have any feedback or suggestions for improvement, feel free to open an issue or submit a pull request. Your input is highly appreciated!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Thank you for checking out my Hangman Game project! I hope you enjoy playing it as much as I enjoyed developing it. If you have any questions or need further assistance, don't hesitate to reach out. Happy coding! 🚀🐍
